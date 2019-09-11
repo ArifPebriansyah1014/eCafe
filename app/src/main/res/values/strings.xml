@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">eCAFE</string>
+    <string name="harga">Harga</string>
+    <string name="masukan_nama_anda">Masukan nama anda</string>
+    <string name="anggota_kelompok">Anggota Kelompok 5</string>
+    <string name="arif_pebriansyah">Arif Pebriansyah          NPM. 1717051014</string>
+    <string name="diana_rohma">Diana Rohma                    NPM. 1717051060</string>
+    <string name="rayhan_syahrindra">Rayhan Syahrindra        NPM. 1717051038</string>
+    <string name="azry">Azhari                                 NPM. 1717051070</string>
+    <string name="menu_makanan_minuman"><![CDATA[Menu Makanan & Minuman]]></string>
+    <string name="info_tim">Info Tim</string>
+    <string name="petunjuk_pemesanan">PETUNJUK PEMESANAN</string>
+</resources>
